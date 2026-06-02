@@ -1,0 +1,31 @@
+{
+    "pack": {
+    "min_format": 84,
+    "max_format": 84,
+        "description": "태극기"
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "darkui_compat_overlay",
+                "min_format": 84,
+                "max_format": 84
+            },
+            {
+                "directory": "wavy_leaves_compat_overlay",
+                "min_format": 84,
+                "max_format": 84
+            },
+            {
+                "directory": "wavy_plants_compat_overlay",
+                "min_format": 84,
+                "max_format": 84
+            },
+            {
+                "directory": "wavy_water_compat_overlay",
+                "min_format": 84,
+                "max_format": 84
+            }
+        ]
+    }
+}
